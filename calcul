@@ -1,0 +1,7 @@
+prix entier
+
+tant que argent=>prix
+argent=entier
+calcul=prix / argent
+
+print= calcul
