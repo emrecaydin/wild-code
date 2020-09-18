@@ -1,7 +1,12 @@
-prix entier
+debut calcule
 
-tant que argent>=prix
-argent=entier
-calcul=prix / argent
-
-print= calcul
+  reel argent strictement >0
+  reel prix strictement >0
+  entier NbBonbon <- 0
+  
+  debut tant que argent>=prix
+   argent<- argent - prix
+   NbBonbon<- NbBonbon + 1
+  fin tant que 
+  retourner NbBonbon
+fin calcule 
