@@ -1,6 +1,6 @@
 prix entier
 
-tant que argent=>prix
+tant que argent>=prix
 argent=entier
 calcul=prix / argent
 
